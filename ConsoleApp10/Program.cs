@@ -11,6 +11,8 @@ namespace ConsoleApp10
         static void Main(string[] args)
         {
             Console.WriteLine("Wassup World!");
+            Console.WriteLine("wefdqd");
         }
+
     }
 }
